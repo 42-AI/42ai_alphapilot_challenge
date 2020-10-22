@@ -10,3 +10,9 @@ The first technical test of the AlphaPilot challenge (Test2) consists in develop
 
 ## Navigation
 The second test of the AlphaPilot challenge (Test3) consists in developing an autonomous navigation algorithm. The code and implementation details of our model are available in the [route_planner](https://github.com/Talasta/AlphaPilot-WIP/tree/master/route_planner) folder of this repository.
+
+# Acknowledgements
+## Contributors
+* Tristan Deborde (tdeborde@student.42.fr)
+* Maxime Choulika (maxime@42ai.fr)
+* Baptiste Lefeuvre (blefeuvr@student.42.fr)
