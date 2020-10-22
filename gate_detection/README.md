@@ -4,7 +4,7 @@
 **Goal:** Generate X training examples.
 1 training example = 1 photo containing a racing gate + 1 set of coordinates indicating the position of gate in photo.
 
-<p align="center"><img src="https://github.com/Talasta/AlphaPilot/blob/master/gate_detection/.doc/IMG_0376.JPG" width="70%" height="70%"></p>
+<p align="center"><img src="https://github.com/42-AI/42ai_alphapilot_challenge/blob/master/gate_detection/.doc/IMG_0376.JPG" width="70%" height="70%"></p>
 
 ## Current generator
 
@@ -17,7 +17,7 @@
 
 ## Example of result
 
-<p align="center"><img src="https://github.com/Talasta/AlphaPilot/blob/master/gate_detection/.doc/IMG_CUSTOM.png" width="70%" height="70%"></p>
+<p align="center"><img src="https://github.com/42-AI/42ai_alphapilot_challenge/blob/master/gate_detection/.doc/IMG_CUSTOM.png" width="70%" height="70%"></p>
 
 # Datasets
 
